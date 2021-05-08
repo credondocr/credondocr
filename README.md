@@ -1,6 +1,6 @@
 ### Hello there 👋 
 
-I am a Software Engineer from Costa Rica who is exploring and learning new languajes, tools, frameworks and techniques. <br/>
+I am a Software Engineer from Costa Rica who is exploring and learning new languages, tools, frameworks and techniques. <br/>
 Feel free looking my webpage, not super sweet, this is just a <a href="https://cesarredondo.dev">resume</a> &nbsp;
 <br/>
 

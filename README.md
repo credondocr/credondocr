@@ -1,4 +1,9 @@
-### Hello there 👋
+### Hello there 👋 
+
+I am a Software Engineer from Costa Rica who is exploring and learning new languajes, tools, frameworks and techniques.&nbsp;
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=credondocr&show_icons=true&hide_border=true)
+
 ![](https://komarev.com/ghpvc/?username=credondocr)
 ![](https://img.shields.io/badge/version-07.05.2021-informational)
 [![GitHub Credondocr](https://img.shields.io/github/followers/credondocr?label=follow&style=social)](https://github.com/credondocr)&nbsp;
@@ -12,13 +17,16 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Nestjs](https://img.shields.io/badge/Nestjs-05122A?style=flat&logo=Nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-05122A?&style=flat&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitMQ-05122A?style=flat&logo=RabbitMQ&logoColor=F76300)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-05122A?style=flat&logo=RabbitMQ&logoColor=F76300)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=Postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;

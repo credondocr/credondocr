@@ -1,17 +1,18 @@
 ### Hello there 👋 
 
-I am a Software Engineer from Costa Rica who is exploring and learning new languajes, tools, frameworks and techniques.&nbsp;
+I am a Software Engineer from Costa Rica who is exploring and learning new languajes, tools, frameworks and techniques. <br/>
+Feel free looking my webpage, is like a <a href="http://www.cesarredondo.dev">resume</a> &nbsp;
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=credondocr&show_icons=true&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=credondocr)
-![](https://img.shields.io/badge/version-07.05.2021-informational)
-[![GitHub Credondocr](https://img.shields.io/github/followers/credondocr?label=follow&style=social)](https://github.com/credondocr)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
+🔭 I’m currently working at  &nbsp;<br/>
+<a href="www.edify.cr"><img src="https://www.edify.cr/images/logo-EDIFY.png" /> </a>
+<br/>
 
+<i>Edify is a passionate group of strategic thinkers and creative minds, pushin way beyond the boundaries of technology.</i>  
 
+🌱 I'm currently learning new programming languages to stay ahead in the software industry. 
+ 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,34 +37,15 @@ I am a Software Engineer from Costa Rica who is exploring and learning new langu
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&style=flat&logoColor=white)
 
 
-🔭 I’m currently working at  &nbsp;<br/>
-<a href="www.edify.cr"><img src="https://www.edify.cr/images/logo-EDIFY.png" /> </a>
-<br/>
-<p>
-  Edify is a passionate group of strategic thinkers and creative minds, pushin way beyond the boundaries of technology.  
-</p>
-
-🌱 I'm currently learning new programming languages to stay ahead in the software industry. 
-
 📫 How to reach me: 
 
 <a href="https://www.linkedin.com/in/credondocr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:credondocr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-<!--
 
-<!--
-**credondocr/credondocr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![](https://komarev.com/ghpvc/?username=credondocr)
+![](https://img.shields.io/badge/version-07.05.2021-informational)
+[![GitHub Credondocr](https://img.shields.io/github/followers/credondocr?label=follow&style=social)](https://github.com/credondocr)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)

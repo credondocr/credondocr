@@ -5,7 +5,7 @@ Feel free looking my webpage, not super sweet, this is just a <a href="https://c
 <br/>
 
 
-🔭 I’m currently working at  &nbsp;<br/>
+🔭  I’m currently working at  &nbsp;<br/>
 <a href="www.ltvco.com"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE17Ve9UANN5w/company-logo_200_200/0/1578079487916?e=2159024400&v=beta&t=s-sQtjnXr3SUOBygBfHY0auCJnU7dlXnhv8pKrjzjn4" /> </a>
 <br/>
 

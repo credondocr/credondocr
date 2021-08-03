@@ -6,7 +6,7 @@ Feel free looking my webpage, not super sweet, this is just a <a href="https://c
 
 
 🔭 I’m currently working at  &nbsp;<br/>
-<a href="www.edify.cr"><img src="https://www.edify.cr/images/logo-EDIFY.png" /> </a>
+<a href="www.ltvco.com"><img src="https://www.ltvco.com/assets/images/ltv-logo.png" /> </a>
 <br/>
 
 <i>Edify is a passionate group of strategic thinkers and creative minds, pushin way beyond the boundaries of technology.</i>  
